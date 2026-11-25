@@ -1,0 +1,8 @@
+[
+  {"question": "재택 근무는 일주일에 몇 번까지 돼?", "expected_source": "01_근무규정"},
+  {"question": "반차 오후는 몇 시부터야?", "expected_source": "02_휴가규정"},
+  {"question": "야근하면 저녁 얼마까지 지원돼?", "expected_source": "03_경비규정"},
+  {"question": "영수증 언제까지 내야 해?", "expected_source": "03_경비규정"},
+  {"question": "외부 교육비는 얼마까지 지원해?", "expected_source": "04_교육지원규정"},
+  {"question": "경비규정 제3조 내용 알려줘", "expected_source": "03_경비규정"}
+]
